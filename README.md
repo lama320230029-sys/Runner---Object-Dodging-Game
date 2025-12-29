@@ -78,6 +78,8 @@ Survive as long as possible and achieve the highest score.
 ## 🖼️ Screenshots
 The following screenshots are included in the project report and presentation:
 ![WhatsApp Image 2025-12-29 at 03 45 10](https://github.com/user-attachments/assets/8ff766be-1eb0-431b-a5d9-27e76847734b)
+![WhatsApp Image 2025-12-29 at 03 48 47](https://github.com/user-attachments/assets/1e68f05c-619e-442a-89a0-1e4ef55fe057)
+![WhatsApp Image 2025-12-29 at 04 01 38](https://github.com/user-attachments/assets/734ee824-0ebb-42a7-a039-ece4c7ccc65d)
 
 
 ---
